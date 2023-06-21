@@ -1,4 +1,4 @@
-import react, { ReactElement } from 'react';
+import { ReactElement } from 'react';
 import styled from 'styled-components';
 import { ICountry } from '../../../features/countries/interfaces';
 import { FaLongArrowAltUp, FaLongArrowAltDown } from 'react-icons/fa';

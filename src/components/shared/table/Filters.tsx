@@ -1,4 +1,4 @@
-import React, { ReactElement } from 'react';
+import { ReactElement } from 'react';
 import styled from 'styled-components';
 
 
@@ -8,12 +8,11 @@ interface IProps {
     isLessArea: boolean;
     setIsOceania: () => void;
     setIsLessArea: () => void;
-    entriesPerPage: number;
 }
 
 export const Filters = (props: IProps): ReactElement => {
 
-    const { area, isLessArea, isOceania, setIsLessArea, setIsOceania, entriesPerPage } = props;
+    const { area, isLessArea, isOceania, setIsLessArea, setIsOceania } = props;
     return (
         <FiltersContainer>
             <OptionContainer onClick={setIsOceania}>

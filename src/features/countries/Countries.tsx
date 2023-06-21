@@ -92,7 +92,6 @@ export function Countries(): ReactElement {
         isOceania={isOceania}
         setIsOceania={handleOceania}
         setIsLessArea={handleLessArea}
-        entriesPerPage={entriesPerPage}
       />
       {
         countries.length === 0 ? <Loading>Loading...</Loading> : (

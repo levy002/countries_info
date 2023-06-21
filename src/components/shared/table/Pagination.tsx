@@ -1,4 +1,4 @@
-import react, { ReactElement, useMemo } from 'react';
+import { ReactElement, useMemo } from 'react';
 import { styled } from 'styled-components';
 
 interface IProps {

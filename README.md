@@ -50,15 +50,11 @@ The proposed project is an interactive interface that utilizes an external API t
 - **Data Filters**
 - **Pagination**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://levy-ukwishaka-reiz-tech-assignment.netlify.app/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -99,8 +95,6 @@ To run the project, execute the following command:
   npm start
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -111,10 +105,6 @@ To run the project, execute the following command:
 - Twitter: [@levy_ukwishaka](https://twitter.com/levy_ukwishaka)
 - LinkedIn: [@levy-ukwishaka](https://www.linkedin.com/in/levy-ukwishaka/)
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -123,15 +113,11 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project please leave ⭐️ 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -139,12 +125,9 @@ If you like this project please leave ⭐️
 
 I would like to thank Reiz Tech for effering me the opportunity to work on this assesment 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>

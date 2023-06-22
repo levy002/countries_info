@@ -30,7 +30,7 @@
 
 # 📖 Front-End Assesment <a name="about-project"></a>
 
-The proposed project is an interactive interface that utilizes an external API to fetch and display a comprehensive list of countries. The user-friendly application offers a range of features aimed at enhancing the user experience. Users are provided with the ability to filter the displayed countries based on various criteria, enabling them to narrow down their search. The interface also incorporates a pagination system, ensuring that the data is presented across multiple pages, promoting a more organized and manageable browsing experience.
+This project is an interactive interface that utilizes an external API to fetch and display a comprehensive list of countries. The user-friendly application offers a range of features aimed at enhancing the user experience. Users are provided with the ability to filter the displayed countries based on various criteria, enabling them to narrow down their search. The interface also incorporates a pagination system, ensuring that the data is presented across multiple pages, promoting a more organized and manageable browsing experience.
 
 ## 🛠 Built With <a name="built-with"></a>
 

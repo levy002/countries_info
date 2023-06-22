@@ -1,7 +1,7 @@
 import { ReactElement } from 'react';
 import styled from 'styled-components';
 import { ICountry } from '../../../features/countries/interfaces';
-import { FaLongArrowAltUp, FaLongArrowAltDown } from 'react-icons/fa';
+import { LuArrowUpNarrowWide, LuArrowDownWideNarrow } from 'react-icons/lu';
 
 
 interface IProps {
@@ -82,6 +82,7 @@ text-align: start;
 const NameHeader = styled(TableHeader)`
     display: flex;
     justify-content: flex-start;
+    align-items: center;
     gap: 30px;
 `;
 
@@ -90,24 +91,31 @@ padding: 7px 15px;
 `;
 
 const SortIconsContainer = styled.div`
+display: flex;
+justify-content: center;
+gap: 15px;
 `;
 
-const DescendingIcon = styled(FaLongArrowAltDown)`;
+const DescendingIcon = styled(LuArrowDownWideNarrow)`;
     opacity: 0.1;
     cursor: pointer;
+    font-size: 1.5rem;
 `;
 
-const DescendingIconActive = styled(FaLongArrowAltDown)`;
+const DescendingIconActive = styled(LuArrowDownWideNarrow)`;
 color: #a3e635;
 cursor: pointer;
+font-size: 1.5rem;
 `
 
-const AscendingIcon = styled(FaLongArrowAltUp)`;
+const AscendingIcon = styled(LuArrowUpNarrowWide)`;
     opacity: 0.1;
     cursor: pointer;
+    font-size: 1.5rem;
 `
 
-const AscendingIconActive = styled(FaLongArrowAltUp)`;
+const AscendingIconActive = styled(LuArrowUpNarrowWide)`;
   color: #a3e635;
   cursor: pointer;
+  font-size: 1.5rem;
 `

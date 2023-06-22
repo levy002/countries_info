@@ -15,13 +15,13 @@ export const Filters = (props: IProps): ReactElement => {
     const { area, isLessArea, isOceania, setIsLessArea, setIsOceania } = props;
     return (
         <FiltersContainer>
-            <OptionContainer onClick={setIsOceania}>
+            <OptionContainer onClick={setIsOceania} title="All countries located in Oceania region">
                 <Input name="region" type='checkbox' checked={isOceania} onChange={setIsOceania} />
                 {
                     isOceania ? <SpanActive>In Oceania</SpanActive> : <Span>In Oceania</Span>
                 }
             </OptionContainer>
-            <OptionContainer onClick={setIsLessArea}>
+            <OptionContainer onClick={setIsLessArea} title="All countries smaller than Lithuania by area">
                 <Input name="area" type='checkbox' checked={isLessArea} onChange={setIsLessArea} />
                 {
                     isLessArea ? <SpanActive>Area {'<'} Lithuania({area})</SpanActive> : <Span>Area {'<'} Lithuania({area})</Span>

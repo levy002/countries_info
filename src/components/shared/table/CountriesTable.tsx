@@ -64,7 +64,6 @@ const TableHead = styled.thead`
 
 const TableRow = styled.tr`
 background-color: #84cc16;
-padding: 10px;
 `;
 
 const TableBody = styled.tbody`

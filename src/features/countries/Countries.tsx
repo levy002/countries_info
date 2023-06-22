@@ -12,7 +12,7 @@ import { Filters } from '../../components/shared/table/Filters';
 
 export function Countries(): ReactElement {
   const countries = useAppSelector(selectCountries);
-  const [entriesPerPage, setEntriesPerPage] = useState<number>(23);
+  const [entriesPerPage, setEntriesPerPage] = useState<number>(20);
   const [currentPage, setCurrentPage] = useState<number>(1);
   const [offset, setOffSet] = useState<number>(0);
   const [limit, setLimit] = useState<number>(entriesPerPage);

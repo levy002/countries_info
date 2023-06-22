@@ -14,6 +14,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Project Intro Video](#project-intro-video)  
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -49,6 +50,12 @@ This project is an interactive interface that utilizes an external API to fetch 
 - **Display all data list**
 - **Data Filters**
 - **Pagination**
+
+<!-- INTODUCTION VIDEO -->
+
+## 🚀 Project Intro Video <a name="project-intro-video"></a>
+
+- [Project Intro Video](https://www.loom.com/share/abe2034447f949a99e3dcf421b6f8d90?sid=22bac23b-8124-4615-b793-e43292a06fbd)
 
 <!-- LIVE DEMO -->
 

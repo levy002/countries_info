@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="./src/assets/reiz_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
-  <h3>REIZ TECH ASSESMENT</h3>
+
+  <h3>COUNTRIES INFO</h3>
 
 </div>
 
@@ -29,7 +28,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Front-End Assesment <a name="about-project"></a>
+# 📖 COUNTRIES INFO <a name="about-project"></a>
 
 This project is an interactive interface that utilizes an external API to fetch and display a comprehensive list of countries. The user-friendly application offers a range of features aimed at enhancing the user experience. Users are provided with the ability to filter the displayed countries based on various criteria, enabling them to narrow down their search. The interface also incorporates a pagination system, ensuring that the data is presented across multiple pages, promoting a more organized and manageable browsing experience.
 
@@ -130,7 +129,7 @@ If you like this project please leave ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Reiz Tech for effering me the opportunity to work on this assesment 
+I would like to thank Reiz Tech for offering me the opportunity to work on this assessment 
 
 <!-- LICENSE -->
 

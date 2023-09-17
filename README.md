@@ -60,7 +60,7 @@ This project is an interactive interface that utilizes an external API to fetch 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://levy-ukwishaka-reiz-tech-assignment.netlify.app/)
+- [Live Demo Link](https://levy-ukwishaka-countries-info.netlify.app/)
 
 <!-- GETTING STARTED -->
 
